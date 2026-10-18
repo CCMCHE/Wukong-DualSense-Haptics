@@ -1,0 +1,13 @@
+# Repository for public documentation; binaries are attached to GitHub Releases.
+*.zip
+*.exe
+*.dll
+*.log
+private_backups/
+backups/
+maintenance/
+release_work/
+verification/
+work/
+.DS_Store
+Thumbs.db
